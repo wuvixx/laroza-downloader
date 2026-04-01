@@ -30,7 +30,7 @@ This script acts as a wrapper for several powerful media tools. You **must** hav
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/laroza-downloader.git
+    git clone https://github.com/wuvixx/laroza-downloader.git
     cd laroza-downloader
     ```
 
