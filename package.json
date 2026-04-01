@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "echo 'IMPORTANT: Ensure ffmpeg, mp4decrypt, and N_m3u8DL-RE are in your PATH!'"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.3.0",
+    "arabic-transliterate": "^1.0.1",
+    "axios": "^1.13.5",
+    "html-entities": "^2.6.0",
+    "ora": "^9.3.0"
+  }
+}
