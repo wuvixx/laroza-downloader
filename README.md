@@ -67,8 +67,3 @@ This tool is for **educational purposes only**. I do not encourage or condone th
 
 This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
------
-
-### Pro-Tip for your GitHub Repo:
-
-Since you mentioned using **regex** for your unpacker and scraping, make sure your code handles potential errors gracefully if the website layout changes. You might also want to add a `.gitignore` to prevent your `node_modules` and any test `.mp4` files from being uploaded\!
